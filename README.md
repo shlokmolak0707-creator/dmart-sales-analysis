@@ -1,29 +1,26 @@
 # DMart Sales Analysis
 
-## Project Overview
-This project analyzes DMart sales data using Excel and data analysis techniques to identify sales trends, customer behavior, and business insights.
+## Overview
+This repository was created as part of a classroom learning activity to understand Git and GitHub fundamentals.
 
-## Dataset
-- Dataset: Dataset_Dmart.xlsx
-- Source: Educational/Practice Dataset
+## What I Learned
+- Creating a GitHub repository
+- Connecting local files to GitHub
+- Authentication and GitHub account setup
+- Basic Git commands using Command Prompt (CMD)
+- Pushing files to a remote repository
+- Managing repository contents on GitHub
 
-## Objectives
-- Analyze overall sales performance
-- Identify top-selling products
-- Study customer purchasing patterns
-- Generate business insights from the data
+## Excel Concepts Covered
+- Understanding different types of data
+- Filtering data in Excel
+- Basic data exploration techniques
 
-## Tools Used
-- Microsoft Excel
-- Git
-- GitHub
-
-## Repository Structure
-├── Dataset_Dmart.xlsx
-└── README.md
+## Files
+- Dataset_Dmart.xlsx
 
 ## Author
 Shlok Molak
 
-## Status
-Project in Progress 🚀
+## Purpose
+This repository serves as a practice project for learning GitHub workflow and basic Excel data handling concepts.
